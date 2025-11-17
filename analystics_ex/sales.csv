@@ -1,0 +1,7 @@
+customer_id,country,product,quantity,revenue
+101,Korea,Shoes,3,120000.0
+102,USA,Shoes,1,60000.0
+103,Korea,Hat,2,40000.0
+104,Japan,Hat,5,
+105,China,Bag,1,80000.0
+106,,Bag,2,50000.0
