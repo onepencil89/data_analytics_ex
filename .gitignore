@@ -1,6 +1,7 @@
 dollar_date/
 exchange_date/
 naver_news/
+image/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
